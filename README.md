@@ -1,2 +1,2 @@
 # TrabalhoSalaDevOps
-Trabalho de sala do LEMP
+Trabalho de sala WordPress
